@@ -17,6 +17,22 @@
       ]
     },
     {
+      "0": {
+        "id": 10,
+        "username": "macejkovic"
+      },
+      "1": {
+        "id": 4,
+        "username": "batz"
+      },
+      "2": {
+        "id": 6,
+        "username": "steuber"
+      },
+      "3": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 2,
       "title": "Nemesis",
       "description": "The next high-octane thriller in the FBI series featuring Dillon Savich and Lacey Sherlock from # 1 New York Times–bestselling author Catherine Coulter. When Special Agent Lacey Sherlock foils a terrorist attack at JFK airport, she thinks her job is done and turns the reins over to the New York FBI. But stopping the grenade-carrying crazy was only the beginning. Another plot unfolds nearly simultaneously with a bomb at St. Patrick’s Cathedral. The terrorist at JFK refuses to speak to anyone but Sherlock. She heads back with counterterrorist Special Agent Cal McLain to try to get him to talk. Meanwhile, Savich—with the help of Agent Griffin Hammersmith—has his hands full trying to track an elusive murderer who looks like a Hollywood Dracula. When Dracula’s attempts to kill Savich collide with Sherlock’s terrorist case, very strange things happen. Who is really behind the bombing attack at St. Patrick’s? How does Savich’s mysterious killer fit into Sherlock’s terrorism investigation? Savich and Sherlock race against the clock, as more lives are in danger with every passing minute.",
@@ -105,6 +121,18 @@
       ]
     },
     {
+      "0": {
+        "id": 3,
+        "username": "marvin"
+      },
+      "1": {
+        "id": 5,
+        "username": "king"
+      },
+      "2": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 7,
       "title": "Iron Lake",
       "description": "Includes excerpt of Heaven's Keep by William Kent Krueger (p. [439-447]).",
